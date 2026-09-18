@@ -1,0 +1,22 @@
+[
+    {
+        "Title": "The Alchemist",
+        "Author": "Paulo Coelho",
+        "Price": 299
+    },
+    {
+        "Title": "Wings of Fire",
+        "Author": "A.P.J. Abdul Kalam",
+        "Price": 350
+    },
+    {
+        "Title": "Atomic Habits",
+        "Author": "James Clear",
+        "Price": 499
+    },
+    {
+        "Title": "Harry Potter",
+        "Author": "J.K. Rowling",
+        "Price": 450
+    }
+]
